@@ -426,6 +426,24 @@
         ]
       }
     },
+    "maeve-agent": {
+      "sha": "8a87cee2ce4e821ce64f1622e9dd5792f9a34873",
+      "version": "1.1.1",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "maeve",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "maeve-social-scheduler",
+            "description": "Manage content, media, and analytics in a Maeve workspace through MCP, CLI, or API. Use for workspace operations, not M…"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "84ae7251ee919239d5ea85aef25897983f26601e",
       "version": "0.0.191",
